@@ -28,15 +28,18 @@ Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de es
 - O sistema deve ter autenticação para evitar múltiplas inscrições indevidas.
 - O design deve ser responsivo e acessível.
 
-## 🏗️ Modelo de Banco de Dados
+## 🏗️ Modelos
 
-### 📌 Modelo Conceitual
+### Front-end
 
+### Back-end
+
+### Banco de Dados
+
+- Modelo Conceitual
 ![CONCEITUAL_NUCLEO_ESPORTES](https://github.com/user-attachments/assets/53f4a003-32ec-4a85-b051-1e52a8b1f0fd)
 
-
-### 📌 Modelo Lógico
-
+- Modelo Lógico
 IMAGEM AQUI
 
 ## 📌 Escopo do Projeto

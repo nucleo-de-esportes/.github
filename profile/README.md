@@ -1,6 +1,14 @@
 # 🏀 Núcleo de Esportes
 
-**Tecnologias que vão ser usadas
+## Introdução
+
+### Descição Geral
+
+Este projeto será uma sessão do site do CEUB, onde os alunos, professores e o público externo possam se increver em aulas de esportes. O sistema facilitará a escolha de turmas com base na disponibilidade de vagas, campus, horários e dias da semana.
+
+### Objetivo
+
+Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de esportes, otimizando a alocação de vagas e facilitando o acesso às informações das turmas.
 
 ## 📌 Requisitos do Projeto
 

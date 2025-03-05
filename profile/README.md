@@ -41,7 +41,8 @@ Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de es
 
 
 - Modelo Lógico
-IMAGEM AQUI
+![MODELO LOGICO ATUALIZADO RECENTE](https://github.com/user-attachments/assets/23b30ea5-66f6-4544-8eb2-f9d3384012dd)
+
 
 ## 📌 Escopo do Projeto
 

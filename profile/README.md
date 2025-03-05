@@ -37,7 +37,8 @@ Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de es
 ### 🗂️ Banco de Dados
 
 - Modelo Conceitual
-![CONCEITUAL_NUCLEO_ESPORTES](https://github.com/user-attachments/assets/53f4a003-32ec-4a85-b051-1e52a8b1f0fd)
+![MODELO CONCEITUAL ATUALIZADO](https://github.com/user-attachments/assets/f1994464-2697-4d96-991c-867d638fdc4d)
+
 
 - Modelo Lógico
 IMAGEM AQUI

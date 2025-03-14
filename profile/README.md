@@ -28,6 +28,12 @@ Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de es
 - O sistema deve ter autenticação para evitar múltiplas inscrições indevidas.
 - O design deve ser responsivo e acessível.
 
+### Requisitos de Software
+
+- **Front-end:** React
+- **Back-end:** GoLang
+- **Banco de Dados:** Supabase
+
 ## 🏗️ Modelos
 
 ### 💻 Front-end

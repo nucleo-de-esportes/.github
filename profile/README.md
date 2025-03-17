@@ -38,6 +38,8 @@ Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de es
 
 ### 💻 Front-end
 
+https://www.figma.com/design/p8onVM9ZwQ5CcGEFjUyJix/N%C3%BAcleo-de-Esportes?node-id=0-1&t=ZRHJARTQ0HBRx5Tr-1
+
 ### ⚙️ Back-end
 
 ### 🗂️ Banco de Dados

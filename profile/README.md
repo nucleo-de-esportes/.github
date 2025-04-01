@@ -1,10 +1,14 @@
 # 🏀 Núcleo de Esportes
 
+## 👥 Colaboradores
+
+## Alexsandro Patricio | Dante Borges | Luiz Felipe Guerra | Marcos Paulo França
+
 ## 📌 Introdução
 
 ### Descição Geral
 
-Este projeto será uma sessão do site do CEUB, onde os alunos, professores e o público externo possam se increver em aulas de esportes. O sistema facilitará a escolha de turmas com base na disponibilidade de vagas, campus, horários e dias da semana.
+Este projeto será uma sessão do site do ![CEUB](https://www.uniceub.br/nucleo-de-esportes), onde os alunos, professores e o público externo possam se increver em aulas de esportes. O sistema facilitará a escolha de turmas com base na disponibilidade de vagas, campus, horários e dias da semana.
 
 ### Objetivo
 

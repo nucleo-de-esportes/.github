@@ -46,6 +46,8 @@ https://www.figma.com/design/p8onVM9ZwQ5CcGEFjUyJix/N%C3%BAcleo-de-Esportes?node
 
 ### ⚙️ Back-end
 
+[Documentação da API](https://app.swaggerhub.com/apis/nucleo-cc6/nucleo-de-esportes/1.0.0)
+
 ### 🗂️ Banco de Dados
 
 - Modelo Conceitual
@@ -55,20 +57,3 @@ https://www.figma.com/design/p8onVM9ZwQ5CcGEFjUyJix/N%C3%BAcleo-de-Esportes?node
 - Modelo Lógico
 ![MODELO LOGICO ATUALIZADO RECENTE](https://github.com/user-attachments/assets/23b30ea5-66f6-4544-8eb2-f9d3384012dd)
 
-
-## 📌 Escopo do Projeto
-
-1. **Cadastro e Login de Usuários**  
-   - Registro de usuários com autenticação via JWT.
-   - Recuperação de senha.
-
-2. **Gerenciamento de Modalidades**  
-   - CRUD de modalidades.
-
-3. **Agendamento de aulas**  
-  
-
-
----
-
-Desenvolvido por {nomes}

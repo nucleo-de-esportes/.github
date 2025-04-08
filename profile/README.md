@@ -2,7 +2,7 @@
 
 ## 👥 Colaboradores
 
-## Alexsandro Patricio | Dante Borges | Luiz Felipe Guerra | Marcos Paulo França
+## [Alexsandro Patricio](https://github.com/alexpatri) | [Dante Borges](https://github.com/DanteBLima) | [Luiz Felipe Guerra](https://github.com/LFguerra1) | [Marcos Paulo França](https://github.com/marcospaulofjl)
 
 ## 📌 Introdução
 

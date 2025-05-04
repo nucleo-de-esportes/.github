@@ -10,6 +10,8 @@
 
 Este projeto será uma sessão do site do [CEUB](https://www.uniceub.br/nucleo-de-esportes), onde os alunos, professores e o público externo possam se increver em aulas de esportes. O sistema facilitará a escolha de turmas com base na disponibilidade de vagas, campus, horários e dias da semana.
 
+👉 Acesse diretamente pelo link: [nucleo-de-esportes](https://frontend-little-log-1406.fly.dev/)
+
 ### Objetivo
 
 Criar uma plataforma intuitiva para gerenciamento de inscrições em aulas de esportes, otimizando a alocação de vagas e facilitando o acesso às informações das turmas.

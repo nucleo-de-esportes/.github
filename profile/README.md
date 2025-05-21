@@ -48,7 +48,7 @@ https://www.figma.com/design/p8onVM9ZwQ5CcGEFjUyJix/N%C3%BAcleo-de-Esportes?node
 
 ### ⚙️ Back-end
 
-[Documentação da API]([https://app.swaggerhub.com/apis-docs/nucleo-cc6/nucleo-de-esportes/1.0.0](https://nucleo-de-esportes.github.io/backend/swagger/index.html))
+[Documentação da API](https://nucleo-de-esportes.github.io/backend/swagger/index.html)
 
 ### 🗂️ Banco de Dados
 

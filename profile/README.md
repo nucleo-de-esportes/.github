@@ -52,10 +52,49 @@ https://www.figma.com/design/p8onVM9ZwQ5CcGEFjUyJix/N%C3%BAcleo-de-Esportes?node
 
 ### 🗂️ Banco de Dados
 
-- Modelo Conceitual
-![MODELO CONCEITUAL ATUALIZADO](https://github.com/user-attachments/assets/f1994464-2697-4d96-991c-867d638fdc4d)
+```mermaid
+erDiagram
+    MATRICULA {
+        uuid user_id
+        timestamp created_at
+        int turma_id
+        int id
+    }
+    
+    USUARIO {
+        uuid user_id
+        text email
+        text user_type
+        text nome
+    }
 
+    TURMA {
+        int turma_id
+        text horario_inicio
+        int limite_inscritos
+        varchar dia_semana
+        varchar sigla
+        int local_id
+        int modalidade_id
+        text horario_fim
+    }
 
-- Modelo Lógico
-![MODELO LOGICO ATUALIZADO RECENTE](https://github.com/user-attachments/assets/23b30ea5-66f6-4544-8eb2-f9d3384012dd)
+    LOCAL {
+        int local_id
+        varchar nome
+        varchar campus
+    }
+
+    MODALIDADE {
+        int modalidade_id
+        varchar nome
+        numeric valor
+    }
+
+    MATRICULA ||--o| USUARIO: "relaciona"
+    MATRICULA ||--o| TURMA: "inscrita em"
+    TURMA ||--o| LOCAL: "ocorre em"
+    TURMA ||--o| MODALIDADE: "possui"
+TURMA ||--O| USUARIO: "leciona"
+```
 
